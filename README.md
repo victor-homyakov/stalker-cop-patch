@@ -13,3 +13,5 @@ stalker-cop-patch
    (thanx to Cubic, взято из CUBIC mini MOD 1.6)
 4. Исправлен радиус разлёта осколков гранат Ф-1 и РГД-5, теперь он совпадает с приведённым
    в описании (thanx to Cubic, взято из CUBIC mini MOD 1.6)
+5. Исправлены прицелы для SPAS-12 (был задран вверх), АС "Вал" (был повёрнут влево)
+   (thanx to b1ub4k, взято из correct ironsights alignment 1.1)
