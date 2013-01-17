@@ -280,7 +280,7 @@
 		<text>Макс. вес</text>
 	</string>
 	<string id="st_ui_health_sensor">
-		<text>Состояние здоровья</text>
+		<text>Состояние здоровья:</text>
 	</string>
 	<string id="ui_ammo_types">
 		<text>Боеприпасы</text>
