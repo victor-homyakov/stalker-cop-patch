@@ -659,61 +659,17 @@
 #include "ui\ui_credits.xml"
 
 <intro_logo>
-	<global_wnd width="1024" height="768">
-		<auto_static width="1024" height="768" stretch="1">
-			<texture>intro\intro_back</texture>
-		</auto_static>
-	</global_wnd>
-		<play_each_item>0</play_each_item>
-<!-- GSC GAMEWORLD -->
-	                   
-		                              
-		                
-		                             
-		                                                                           
-			                                                                       
-		            
-	       
-                                                   
-		                   
-			                
-			                             
-			                                 
-			                                                             
-				                                                                          
-			            
-		       
-<!-- bitComposer - SCOP FOREIGN PUBLISHER --
-		<item type="video">
-			<delay>1</delay>
-			<pause_state>on</pause_state>
-			<sound>video\bitComposer</sound>
-			<video_wnd x="0" y="0" width="1024" height="768" stretch="1">
-				<texture x="0" y="1" width="640" height="368">intro\bitComposer</texture>
-			</video_wnd>
-		</item>
--->
-<!-- ATI -->
-		<item type="video">
-			<delay>1</delay>
-			<pause_state>on</pause_state>
-			<sound>video\ATI_Radeon_1920x1080</sound>
-			<video_wnd x="0" y="0" width="1024" height="768" stretch="1">
-				<texture x="0" y="1" width="640" height="368">intro\ATI_Radeon_1920x1080</texture>
-			</video_wnd>
-		</item>
-<!-- AMD -->
-		<item type="video">
-			<delay>1</delay>
-			<pause_state>on</pause_state>
-			<sound>video\AMD_fusion_final_720</sound>
-			<video_wnd x="0" y="0" width="1024" height="768" stretch="1">
-				<texture x="0" y="1" width="640" height="368">intro\AMD_fusion_final_720</texture>
-			</video_wnd>
-		</item>
+  <global_wnd>
+    <auto_static>
+    </auto_static>
+  </global_wnd>
+  <item type="image">
+    <main_wnd>
+      <auto_static>
+      </auto_static>
+    </main_wnd>
+  </item>
 </intro_logo>
-
-
 
 
 <intro_game>

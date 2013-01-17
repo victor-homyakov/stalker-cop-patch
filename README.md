@@ -15,3 +15,5 @@ stalker-cop-patch
    в описании (thanx to Cubic, взято из CUBIC mini MOD 1.6)
 5. Исправлены прицелы для SPAS-12 (был задран вверх), АС "Вал" (был повёрнут влево)
    (thanx to b1ub4k, взято из correct ironsights alignment 1.1)
+6. Убраны заставки при запуске игры, теперь сразу после запуска видим главное меню
+   (thanx to Stalker-all-NoIntro mod)
