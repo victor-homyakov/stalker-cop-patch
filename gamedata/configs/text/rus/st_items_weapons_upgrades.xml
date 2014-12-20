@@ -1264,7 +1264,7 @@
 		<text>Облегчённый приклад</text>
 	</string>
 	<string id="st_up_stvd_a3_descr">
-		<text>Более лёгкое ложе из полимерного матерала помогает снизить общую массу оружия.</text>
+		<text>Более лёгкое ложе из полимерного материала помогает снизить общую массу оружия.</text>
 	</string>
 	<string id="st_up_stvd_a3_name">
 		<text>Ложе из ударостойкого полимера</text>
@@ -1960,7 +1960,7 @@
 		<text>Высококонтрастный прицел</text>
 	</string>
 	<string id="st_prop_sprint">
-		<text>Усилители сервоприводов </text>
+		<text>Усилители сервоприводов</text>
 	</string>
 	<string id="st_prop_durability">
 		<text>Прочность костюма</text>
